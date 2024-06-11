@@ -21,15 +21,15 @@ Hello, I'm Oyinkansola✨ (HE/HIM), also known as General. I'm a seasoned Backen
 </details>
 
 ### Backend Packages Developed 🌱
-- [📦 LimitShield](https://github.com/): A middleware package designed to manage and enforce API rate limiting efficiently.
+- [📦 LimitShield](https://github.com/GeneralFocus/LimitShield): A middleware package designed to manage and enforce API rate limiting efficiently.
 - [📦 FadMeta](https://github.com/): A comprehensive Laravel package designed to streamline and enhance your website's search engine optimization (SEO) efforts through automated metadata optimization.
 
 ### Laravel Code Skeletons
-- [👨🏽‍💻 Basic CRUDE ](https://github.com/): A starter template for new Laravel applications.
-- [👨🏽‍💻 Simple CRUDE API ](https://github.com/): Starter template for building APIs with Laravel.
+- [👨🏽‍💻 Basic CRUDE](https://github.com/): A starter template for new Laravel applications.
+- [👨🏽‍💻 Simple CRUDE API](https://github.com/): Starter template for building APIs with Laravel.
 
 ### Resources Cloud Engineering Learning
-- [☁️ AWS Training](https://github.com/): Cloud engineering starter code pack.
+- [☁️ AWS Training](https://github.com/GeneralFocus/AWSCloud): Cloud engineering starter code pack.
 
 ### Cloud Infrastructure Automation (IaC) Examples
 - [☁️ EC2 Setup](https://github.com/): Scripts to automate EC2 instance provisioning.
