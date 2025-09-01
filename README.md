@@ -11,7 +11,7 @@
 
 Welcome to my profile, where craftsmanship meets technology!
 
-Hello, I'm Oyinkansola✨ (HE/HIM), also known as General. I'm a seasoned Backend and Cloud/DevOps Engineer with a passion for delivering quality over hype. With extensive experience in PHP, Laravel, and Codeigniter, I specialize in building secure, scalable, and high-performance backend systems tailored to meet the unique needs of modern web applications.
+Hello, I'm Oyinkansola✨ (HE/HIM), also known as General. I'm a seasoned Backend and Cloud/DevOps Engineer with a passion for delivering quality over hype. With extensive experience in PHP, Laravel and Codeigniter, I specialize in building secure, scalable and high-performance backend systems tailored to meet the unique needs of modern web applications.
 
 <details>
   <summary>Checkout my latest starred repos -></summary>
@@ -34,7 +34,7 @@ Hello, I'm Oyinkansola✨ (HE/HIM), also known as General. I'm a seasoned Backen
 ### Cloud Infrastructure Automation (IaC) Examples
 - [☁️ EC2 Setup](https://github.com/): Scripts to automate EC2 instance provisioning.
 - [☁️ S3 Bucket Management](https://github.com/): IaC for managing S3 buckets and permissions.
-- [☁️ VPC Configuration Setup](https://github.com/): Automate VPC setup with subnets, route tables, and gateways.
+- [☁️ VPC Configuration Setup](https://github.com/): Automate VPC setup with subnets, route tables and gateways.
 
 
 ### Skills & Tech
