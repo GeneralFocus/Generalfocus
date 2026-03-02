@@ -86,14 +86,6 @@ background: # strong foundation — still sharp
 > Curated cloud engineering starter code pack and IaC learning resources — EC2 provisioning, S3 management, VPC automation.
 
 
-## `$ cat ./certifications.txt`
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS DEV](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS AI](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate_003-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-
 <div align="center">
 
 *"Infrastructure that scales should be boring to operate and extraordinary to build. Quality > Hype"*
