@@ -37,7 +37,6 @@ cloud:
 infrastructure_as_code:
   - Terraform
   - CloudFormation
-  - Ansible
 
 containers_and_orchestration:
   - Docker
@@ -67,6 +66,7 @@ scripting_and_automation:
   - Bash
   - Python
   - Git
+  - Ansible
 
 background: # strong foundation — still sharp
   - PHP / Laravel
