@@ -30,6 +30,7 @@ cloud:
   certifications:
     - AWS Certified Solutions Architect – Associate
     - AWS Certified Developer – Associate
+    - AWS Certified CloudOps – Associate
     - AWS Certified AI Practitioner
     - AWS Certified Cloud Practitioner
     - HashiCorp Certified Terraform Associate (003)
